@@ -26,9 +26,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Material-UI](https://img.shields.io/badge/-Material-UI-0081CB?style=flat-square&logo=Material-UI)
-![MongoDB](https://img.shields.io/badge/-MongoDB-#47A248?style=flat-square&logo=MongoDb)
-![ExpressJS](https://img.shields.io/badge/-Express-#000000?style=flat-square&logo=Express)
+![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=Material-UI)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&color=white&logo=MongoDB)
+![ExpressJS](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -52,7 +52,7 @@
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davebanguilan&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davebanguilan&theme=react&line_height=40&hide=css"/>
     </a>
 </div
   
@@ -60,7 +60,7 @@
 
 ---
 
- ### ⭐️ From [davebanguilan](https://github.com/Bgstatic) ### 
+ ### ⭐️ From [davebanguilan](https://github.com/davebanguilan) ### 
  
 ---
 
