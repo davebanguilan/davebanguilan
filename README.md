@@ -1,11 +1,11 @@
-# Hi there, I'm Dave! 😁
+# Hi there, I'm [Dave](https://davebanguilan.netlify.app)! 😁
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a 5th year Computer Engineering Student at Mapúa University.
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 Working on web development technologies like JavaScript, React etc.
+- 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Be proficient in MERN stack and learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to sleep 😴 and listen to music 🎵
 
