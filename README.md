@@ -1,8 +1,8 @@
-# Hi there, I'm [Dave](https://davebanguilan.netlify.app)! 😁
+# Hi there, I'm [Dave](https://davebanguilan.com)!
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a 5th year Computer Engineering Student at Mapúa University.
+## I'm a Software engineer based in Manila 🇵🇭.
 
 - 👨‍💻 Working on web development technologies like JavaScript, React etc.
 - 📚 Learning everything about Frontend and Backend technologies 😅
@@ -24,49 +24,13 @@
 
 ### Languages and Tools 🛠 
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=Material-UI)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&color=white&logo=MongoDB)
-![ExpressJS](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
 
 <br/>
-
----
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="https://github.com/davebanguilan/">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davebanguilan&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="https://github.com/davebanguilan/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davebanguilan&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-  
-<br/>
-
----
-
- ### ⭐️ From [davebanguilan](https://github.com/davebanguilan) ### 
- 
----
-
-
-[instagram]: https://www.instagram.com/davebanguilan
-[linkedin]: https://www.linkedin.com/in/davebanguilan/
